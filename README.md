@@ -10,6 +10,20 @@ A Python tool to analyze Linux authentication logs, detect suspicious activity, 
 - Visualize failed, successful, suspicious, or all login attempts with graphs
 - Export results as CSV for reporting (including all attempts with timestamp, IP, and status)
 
+## Screenshots
+
+### Home Page
+
+![Home Page](Screenshots/HomePage.png)
+
+### Report View
+
+![Report View](Screenshots/Report.png)
+
+### Visualization
+
+![Visualization](Screenshots/Visualize.png)
+
 ## Requirements
 - Python 3.7+
 - Install dependencies:
@@ -44,4 +58,3 @@ python main.py --gui
 
 ## License
 MIT License
-
